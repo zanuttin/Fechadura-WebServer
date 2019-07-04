@@ -10,7 +10,7 @@ O projeto foi desenvolvido tendo em mente uma ferramenta para uso diario que fac
 1- Modulo Rele 1 via\
 1- Cabo PP 10 metros\
 1- Fonte chinesa de procedencia duvidosa\
-Alguns Jumpers\
+Alguns Jumpers
 
 O circuito funciona de forma bem simples ligando o modulo de rele a ESP-32 em 3 pontos:\
 ESP-32 | Modulo Rele\
