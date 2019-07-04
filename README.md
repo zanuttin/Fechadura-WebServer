@@ -16,7 +16,7 @@ O circuito funciona de forma bem simples ligando o modulo de rele a ESP-32 em 3 
 ESP-32 | Modulo Rele\
 3V3====| VCC\
 GND====| GND\
-GPIO4==| IN\
+GPIO4==| IN
 
 E apos isso o fio positivo da fonte foi ligado ao comum do rele e o negativo direto na ponta preta do cabo PP. A ponta vermelha do cabo PP foi ligado ao conector normalmente fechado do rele e ambas outras extremidades ligadas em seus polos correspondentes na fechadura HDL
 
