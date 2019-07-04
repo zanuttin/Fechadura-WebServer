@@ -12,7 +12,7 @@ O projeto foi desenvolvido tendo em mente uma ferramenta para uso diario que fac
 1- Fonte chinesa de procedencia duvidosa\
 Alguns Jumpers\
 
-O circuito funciona de forma bem simples ligando o modulo de rele a ESP-32 em 3 pontos:
+O circuito funciona de forma bem simples ligando o modulo de rele a ESP-32 em 3 pontos:\
 ESP-32 | Modulo Rele\
 3V3====| VCC\
 GND====| GND\
