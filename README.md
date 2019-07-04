@@ -23,3 +23,5 @@ E apos isso o fio positivo da fonte foi ligado ao comum do rele e o negativo dir
 ## O Codigo:
 
 O codigo contido na ESP eh simples e eh responsavel por se conectar a uma rede Wi-Fi, imprimir seu IP para a maquina conectada por meio de um monitor serial, abrir um servidor Web local e aguardar por requisicoes. Quando chega uma requisicao pelo IP da ESP ela serve uma pagina que possui um botao "Abrir" que quando apertado faz uma requisicao para a placa com endereco final =/26 (era o pino utilizado pelo projeto base para acender um LED) e por meio disso um if eh acionado no loop da placa que realiza o acionamento do rele e o desarme do mesmo depois de 1 segundo.
+
+https://drive.google.com/open?id=1Kkgbdy1Nei6g84ACyjCBLXT5Bhxe0Kb0
